@@ -1,0 +1,7 @@
+distlib==0.3.6
+filelock==3.8.2
+platformdirs==2.6.0
+virtualenv==20.17.1
+numpy==1.24.2
+matplotlib==3.7.1
+mpl-toolkits.clifford==0.0.3
